@@ -2,7 +2,7 @@ name: Run AI News Bot Daily
 
 on:
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '10 9 * * *'
   
   workflow_dispatch:
 
